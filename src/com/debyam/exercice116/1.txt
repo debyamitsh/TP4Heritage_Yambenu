@@ -1,0 +1,3 @@
+le casting implicite est possible d’une sous-classe dans sa
+super-classe, mais pas l’inverse à cause du principe de substitution.
+unO2 = unO1 est impossible.

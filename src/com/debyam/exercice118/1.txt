@@ -1,0 +1,2 @@
+« private », transforme tout ce qui est public dans la super-classe en privé pour ses sous-classes
+(et donc inaccessible pour les sous-classes de celles-ci).

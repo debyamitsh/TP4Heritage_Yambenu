@@ -1,0 +1,2 @@
+les sous-classes resteront affectées par toute modification des méthodes ou attributs « protected » de la
+super-classe, ce qui va à l’encontre de l’encapsulation.
